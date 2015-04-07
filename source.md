@@ -25,14 +25,6 @@ Goal is double:
 <li class="fragment"> Get to know *WHAT* can be achieved graphically </li>
 <li class="fragment"> Get a fundamental mind map as to *HOW* </li>
 
-N: 
-
-1. -> mens OpenGL-2
-1. knowing some high-level optimization techniques
-  2. Knowing about their existance (independently of the underlying game engine)
-1. Knowing how to spatially organize a scene
-1. Medio plazo estos repos -> lugar de referencia
-
 H:
 
 ## Computer Graphics for Video-Games Module
@@ -139,7 +131,7 @@ V:
 
 N:
 
-1. CSG can be implemented by other menas (no BPS)
+CSG can be implemented by other means (no BPS)
 
 V:
 
@@ -488,7 +480,7 @@ V:
 
 <figure>
     <img height='400' src='fig/hlod2.png' />
-    <figcaption>HLODs example</figcaption>
+    <figcaption><a href="https://www.youtube.com/watch?v=DUtsid6ioFw">HLODs example</a></figcaption>
 </figure>
 
 V:
@@ -498,7 +490,7 @@ V:
 
 <figure>
     <img height='400' src='fig/hlod3.jpg' />
-    <figcaption>HLODs example</figcaption>
+    <figcaption><a href="https://www.youtube.com/watch?v=DUtsid6ioFw">HLODs example</a></figcaption>
 </figure>
 
 V:
