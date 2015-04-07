@@ -44,9 +44,25 @@ H:
 
 Assumptions:
  
+<ol>
 <li class="fragment"> Video-game should run in any (modern) platform </li>
 <li class="fragment"> No particularly tied to a specific game-engine </li>
 <li class="fragment"> Math background: [linear algebra](http://en.wikipedia.org/wiki/Linear_algebra) and [affine transformations](http://en.wikipedia.org/wiki/Affine_transformation) </li>
+
+
+H:
+
+## Computer Graphics for Video-Games Module
+
+Sessions:
+ 
+ <ol>
+ <li class="fragment"> [Introduction to computer graphics](http://videojuegosun.github.io/ComputerGraphics) (Jean Pierre)</li>
+ <li class="fragment"> Shaders, taller 1 (Andres y Jean Pierre)</li>
+ <li class="fragment"> Taller 2 relativo a Blender (Alexander)</li>
+ <li class="fragment"> Taller 3 relativo a Blender (Alexander)</li>
+ <li class="fragment"> Taller 4 relativo a Blender (Alexander)</li>
+ </ol>
 
 N:
 
